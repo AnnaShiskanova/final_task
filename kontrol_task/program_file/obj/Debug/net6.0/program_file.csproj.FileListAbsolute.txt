@@ -1,0 +1,15 @@
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\bin\Debug\net6.0\program_file.exe
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\bin\Debug\net6.0\program_file.deps.json
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\bin\Debug\net6.0\program_file.runtimeconfig.json
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\bin\Debug\net6.0\program_file.dll
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\bin\Debug\net6.0\program_file.pdb
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.csproj.AssemblyReference.cache
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.AssemblyInfoInputs.cache
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.AssemblyInfo.cs
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.csproj.CoreCompileInputs.cache
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.dll
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\refint\program_file.dll
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.pdb
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\program_file.genruntimeconfig.cache
+G:\Мой диск\Учеба разработчик\Знакомство со специализациями\kontrol_task\kontrol_task\program_file\obj\Debug\net6.0\ref\program_file.dll
